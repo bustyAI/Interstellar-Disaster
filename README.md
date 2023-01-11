@@ -18,3 +18,5 @@
 
 ## Accuracy
 ![Accuracy](https://github.com/bustyAI/Interstellar-Disaster/blob/main/assets/ann_accuracy.PNG)
+
+## Intersting Fact about Data
