@@ -7,3 +7,14 @@
 - **Python, Seaborn, Pandas, Numpy, Matplotlib, Sklearn, Tensorflow, Lightgbm, and XgBoost**
 
 # Data Pipeline
+- Example pipeline used for Descision Tree Classifier
+
+![pipeline](https://github.com/bustyAI/Interstellar-Disaster/blob/main/assets/data_pipeline.PNG)
+
+# Outcome
+- **Artificial Neural Network** performed the best
+## Loss
+![Loss](https://github.com/bustyAI/Interstellar-Disaster/blob/main/assets/ann_loss.PNG)
+
+## Accuracy
+![Accuracy](https://github.com/bustyAI/Interstellar-Disaster/blob/main/assets/ann_accuracy.PNG)
